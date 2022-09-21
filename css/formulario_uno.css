@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body{
+  color: #2b4378;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+
+header{
+  margin-top:20px;
+  text-align: center;
+  color: #2b4378;
+  margin-bottom: 25px
+}
+
+.uno{
+  margin-bottom: 15px;
+}
+
+.nave{
+  width:250px;
+  margin-bottom: 20px;
+}
+
+.botones{
+  border-color:#2b4378;
+}
+
+.boton{
+  background-color: #2b4378;
+  border-color: #2b4378;
+  size: 20px;
+  margin-bottom: 15px;
+}
